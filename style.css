@@ -1,0 +1,23 @@
+body {
+    background: slateblue;
+    align-items: center;
+    color: wheat;
+    text-align: center;
+}
+
+
+main {
+    background: slategray;
+    font-size: 16;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: wheat;
+    text-align: center;
+    padding: 20px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
